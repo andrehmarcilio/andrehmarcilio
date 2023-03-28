@@ -1,7 +1,6 @@
 ## Olá! Eu sou o André Marcílio
 
 - 👨‍💻 Desenvolvedor Mobile (Flutter & Kotlin)
-- Pós granduado
 
 <div style="display: inline_block"><br />
 
