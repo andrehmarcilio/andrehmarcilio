@@ -1,4 +1,4 @@
-## Olá! Eu sou o André Marcílio
+## Hello! I am André Marcílio
 
 <div>
 <a href="https://www.linkedin.com/in/andre-hirooka-marcilio/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
@@ -7,7 +7,7 @@
 
 ## Summary
 
-Mobile Developer with 3 years of experience. Proficient in Flutter. I prioritize 'Clean Architecture' concepts to ensure high-quality, readable code.
+Mobile Developer with 3 years of experience. Proficient in Flutter.
 
 ## Academic Background
 
