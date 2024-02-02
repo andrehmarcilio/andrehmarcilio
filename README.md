@@ -25,7 +25,7 @@ Mobile Developer with 3 years of experience. Proficient in Flutter.
 
 ### Music Study - Flutter Developer
 - **08/2020 – 07/2021**
-- Created an app using Flutter. Implemented features such as database management (sqflite), Firebase integration (Auth, Firestore, Storage), state management (Provider, NotifyListeners), in-app purchases, Google Ads, and native audio functionalities. App available on Google Play and App Store.
+- Created an app using Flutter. Implemented features such as database management (sqflite), Firebase integration (Auth, Firestore, Storage), state management (Provider), in-app purchases, Google Ads, and native audio functionalities. App available on Google Play and App Store.
 - [Music Study App](https://musicstudy.app)
 
 ## Courses
@@ -57,4 +57,4 @@ Mobile Developer with 3 years of experience. Proficient in Flutter.
 
 ## Skills
 
-Bloc, Provider, Modular, Web Services Integration, REST APIs, Sqflite, Kotlin, Android, Koin, Room, Retrofit, Git, GitHub, GitLab, GitFlow, SOLID, Clean Architecture, MVVM, Scrum, Kanban, App Store Deployment, Google Ads.
+Bloc, Provider, Modular, Web Services Integration, REST APIs, WebRTC, Sqflite, Kotlin, Android, Koin, Room, Retrofit, Git, GitHub, GitLab, GitFlow, SOLID, Clean Architecture, MVVM, Scrum, Kanban, App Store Deployment, Google Ads.
